@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T19:05:54.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="UbSLlTF8kTEEZv0HKPxA" version="15.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T20:38:50.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="nkgM_cLNbn3rmGQUQ8-v" version="15.8.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -236,8 +236,8 @@
         <mxCell id="mhd1rwPNE3jdb9sb6sS8-83" value="Fonts" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="740" y="420" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PP_Ne7jfOEdoxVb4praj-1" value="flagLookingJob" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="355" y="420" width="100" height="30" as="geometry" />
+        <mxCell id="PP_Ne7jfOEdoxVb4praj-1" value="JobFlag" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PP_Ne7jfOEdoxVb4praj-4" value="likes" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="810" width="100" height="30" as="geometry" />
@@ -257,6 +257,21 @@
           <mxGeometry x="0.0667" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PP_Ne7jfOEdoxVb4praj-9" value="WebPage" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PP_Ne7jfOEdoxVb4praj-10" value="1:1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP_Ne7jfOEdoxVb4praj-9" target="mhd1rwPNE3jdb9sb6sS8-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="510" as="sourcePoint" />
+            <mxPoint x="500" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PP_Ne7jfOEdoxVb4praj-11" value="VisibilityFlag" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PP_Ne7jfOEdoxVb4praj-12" value="UrlName" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="481" y="360" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
