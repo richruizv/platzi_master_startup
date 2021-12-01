@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T18:42:30.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="O9jEnNwSQjwAo7Tdg69q" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T18:49:50.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Qy331MZ61_3SkbYrgNKQ" version="15.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,6 +163,9 @@
             <mxPoint x="600" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Tq2GhUnHhjm6bYVwHfbz-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Tq2GhUnHhjm6bYVwHfbz-51" target="Tq2GhUnHhjm6bYVwHfbz-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tq2GhUnHhjm6bYVwHfbz-51" value="Which component?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="960" width="100" height="80" as="geometry" />
         </mxCell>
@@ -276,6 +279,12 @@
         </mxCell>
         <mxCell id="Tq2GhUnHhjm6bYVwHfbz-106" value="Go to edition page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="1640" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq2GhUnHhjm6bYVwHfbz-110" value="Banner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="1080" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq2GhUnHhjm6bYVwHfbz-112" value="Banner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="1320" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
